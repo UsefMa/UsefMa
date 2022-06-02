@@ -3,9 +3,8 @@
 ## I'm a Developer, Student and Football Player!!
 
 - 🌱 I’m currently learning react js
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn about MERN stack
-- ⚡ Fun fact: I love to Sing and play Foot 
+
 
 
 
