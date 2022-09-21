@@ -1,6 +1,6 @@
 
 
-## I'm a Developer !!
+## I'm a Jr Developer !!
 
 - 🌱 I’m currently learning react js
 - 🥅 2022 Goals: Learn about MERN stack
