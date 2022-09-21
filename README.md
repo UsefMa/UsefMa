@@ -2,8 +2,8 @@
 
 ## I'm a Developer !!
 
-#- 🌱 I’m currently learning react js
-#- 🥅 2022 Goals: Learn about MERN stack
+- 🌱 I’m currently learning react js
+- 🥅 2022 Goals: Learn about MERN stack
 
 
 
